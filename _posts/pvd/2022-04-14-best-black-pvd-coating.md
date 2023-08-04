@@ -4,47 +4,8 @@ title: PVD的黑钛是怎么样的黑？Lab≤L30
 date: '2022-04-14T09:30:00+08:00'
 author: 木易·灵兮
 layout: post
-guid: 'http://themes.tielabs.com/sahifa5/?p=39'
 permalink: /best-black-pvd-coating/
-taq_review_button_text:
-    - ''
-taq_review_button_size:
-    - medium
-taq_review_button_shape:
-    - square
-taq_review_button_color:
-    - '#c7c7c7'
-taq_button_icon:
-    - 'fa fa-check'
-taq_review_button_type:
-    - flat
-taq_review_button_url:
-    - ''
-taq_review_title:
-    - ''
-taq_review_style:
-    - stars
-taq_review_summary:
-    - ''
-taq_review_total:
-    - ''
-tie_sidebar_pos:
-    - default
-tie_audio_oga:
-    - 'http://themes.tielabs.com/data/media/magicghost.ogg'
-tie_views:
-    - '514'
-tie_hide_share:
-    - 'no'
-tie_post_head_cover:
-    - 'true'
-tie_post_slider:
-    - '1102'
-views:
-    - '45'
-image: /wp-content/uploads/2015/01/纳米黑钛-L35.jpg
-categories:
-    - 7天打样
+categories: 真空镀膜
 tags:
     - 哑光
     - 绝缘涂层

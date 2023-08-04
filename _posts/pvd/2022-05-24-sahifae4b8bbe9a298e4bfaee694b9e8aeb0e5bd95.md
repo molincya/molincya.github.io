@@ -4,21 +4,12 @@ title: 自用主题自用修改记录
 date: '2022-05-24T14:32:43+08:00'
 author: 灵兮
 layout: post
-guid: 'https://www.coatingrd.com/?p=2056'
 permalink: /sahifa%e4%b8%bb%e9%a2%98%e4%bf%ae%e6%94%b9%e8%ae%b0%e5%bd%95/
-tie_sidebar_pos:
-    - full
-tie_post_slider:
-    - '1102'
-views:
-    - '40'
 image: /wp-content/uploads/2022/05/易睹1661.png
 categories:
     - 木易灵兮
 tags:
-    - 主题修改
-    - 插件
-    - 易镀1661
+    - 服务器及建站
 ---
 
 ## sahifa主题自用修改记录

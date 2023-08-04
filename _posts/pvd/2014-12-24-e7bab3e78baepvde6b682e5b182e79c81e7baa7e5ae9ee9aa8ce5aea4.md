@@ -4,51 +4,8 @@ title: 纳狮PVD涂层省级实验室
 date: '2014-12-24T14:32:49+08:00'
 author: 木易·灵兮
 layout: post
-guid: 'http://themes.tielabs.com/sahifa5/?p=171'
 permalink: /%e7%ba%b3%e7%8b%aepvd%e6%b6%82%e5%b1%82%e7%9c%81%e7%ba%a7%e5%ae%9e%e9%aa%8c%e5%ae%a4/
-taq_review_button_text:
-    - 'Buy it now'
-taq_review_button_size:
-    - medium
-taq_review_button_shape:
-    - round
-taq_review_button_color:
-    - '#1abc9c'
-taq_button_icon:
-    - 'fa fa-shopping-cart'
-taq_review_button_type:
-    - flat
-taq_review_button_url:
-    - 'http://themeforest.net/item/sahifa-responsive-wordpress-newsmagazineblog/2819356?ref=tielabs'
-taq_review_title:
-    - 'THE BREAKDOWN'
-taq_review_style:
-    - stars
-taq_review_summary:
-    - 'Look, I can take you as far as Anchorhead. You can get a transport there to Mos Eisley or wherever you''re going.'
-taq_review_total:
-    - Nice
-taq_review_criteria:
-    - 'a:7:{i:1;a:2:{s:4:"name";s:6:"DESIGN";s:5:"score";s:2:"75";}i:2;a:2:{s:4:"name";s:7:"DISPLAY";s:5:"score";s:2:"87";}i:3;a:2:{s:4:"name";s:24:"RECEPTION / CALL QUALITY";s:5:"score";s:2:"79";}i:4;a:2:{s:4:"name";s:11:"PERFORMANCE";s:5:"score";s:2:"87";}i:5;a:2:{s:4:"name";s:8:"SOFTWARE";s:5:"score";s:2:"78";}i:6;a:2:{s:4:"name";s:12:"BATTERY LIFE";s:5:"score";s:2:"89";}i:7;a:2:{s:4:"name";s:9:"ECOSYSTEM";s:5:"score";s:2:"81";}}'
-tie_sidebar_pos:
-    - full
-taq_review_score:
-    - '82.285714285714'
-tie_user_rate:
-    - '37.6'
-tie_users_num:
-    - '9'
-tie_post_slider:
-    - '672'
-tie_views:
-    - '246'
-taq_review_button_enable:
-    - 'true'
-views:
-    - '25'
-image: /wp-content/uploads/2014/12/专注纳米涂层技术.jpg
-categories:
-    - Tech
+categories: 真空镀膜
 tags:
     - PVD涂层
     - 涂层实验室

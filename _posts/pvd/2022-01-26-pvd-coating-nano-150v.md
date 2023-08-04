@@ -4,47 +4,8 @@ title: 微米级-3200HV高硬-150V绝缘纳米涂层
 date: '2022-01-26T09:23:00+08:00'
 author: 木易·灵兮
 layout: post
-guid: 'http://themes.tielabs.com/sahifa5/?p=13'
 permalink: /pvd-coating-nano-150v/
-taq_review_button_text:
-    - ''
-taq_review_button_size:
-    - medium
-taq_review_button_shape:
-    - square
-taq_review_button_color:
-    - '#c7c7c7'
-taq_button_icon:
-    - 'fa fa-check'
-taq_review_button_type:
-    - flat
-taq_review_button_url:
-    - ''
-taq_review_title:
-    - ''
-taq_review_style:
-    - stars
-taq_review_summary:
-    - ''
-taq_review_total:
-    - ''
-tie_sidebar_pos:
-    - default
-tie_post_head:
-    - video
-tie_views:
-    - '280'
-tie_embed_code:
-    - '&lt;iframe width=&quot;100%&quot;  height=&quot;600&quot; src=&quot;//player.bilibili.com/player.html?aid=806093413&amp;bvid=BV1F34y1m7Bb&amp;cid=424955372&amp;page=1&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborder=&quot;no&quot; framespacing=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt; &lt;/iframe&gt;'
-tie_post_head_cover:
-    - 'true'
-tie_post_slider:
-    - '1102'
-views:
-    - '44'
-image: /wp-content/uploads/2015/01/超硬超薄绝缘纳米涂层.jpg
-categories:
-    - 视频
+categories: 真空镀膜
 tags:
     - 纳狮
     - 纳米涂层
