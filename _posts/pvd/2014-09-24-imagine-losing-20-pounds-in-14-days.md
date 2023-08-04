@@ -1,45 +1,11 @@
 ---
 id: 37
 title: 手术电钳-氮化钛防粘黏涂层
+categories: 真空镀膜
 date: '2014-09-24T09:29:45+08:00'
 author: 木易·灵兮
 layout: post
-guid: 'http://themes.tielabs.com/sahifa5/?p=37'
-permalink: /imagine-losing-20-pounds-in-14-days/
-taq_review_button_text:
-    - ''
-taq_review_button_size:
-    - medium
-taq_review_button_shape:
-    - square
-taq_review_button_color:
-    - '#c7c7c7'
-taq_button_icon:
-    - 'fa fa-check'
-taq_review_button_type:
-    - flat
-taq_review_button_url:
-    - ''
-taq_review_title:
-    - ''
-taq_review_style:
-    - stars
-taq_review_summary:
-    - ''
-taq_review_total:
-    - ''
-tie_sidebar_pos:
-    - default
-tie_googlemap_url:
-    - 'https://maps.google.com/maps?q=egypt&amp;amp;hl=en&amp;amp;sll=26.820553,30.802498&amp;amp;sspn=16.874794,19.753418&amp;amp;hnear=Egypt&amp;amp;t=m&amp;amp;z=6&amp;amp;output=embed'
-tie_post_slider:
-    - '1102'
-tie_views:
-    - '223'
-tie_post_head:
-    - thumb
-views:
-    - '45'
+permalink: /pvd-coating-fangzhannian/
 image: /wp-content/uploads/2014/10/三色版PVD镀金.jpg
 categories:
     - 7天打样
