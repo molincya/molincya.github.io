@@ -5,10 +5,9 @@ date: 2020-05-01T14:29:07+08:00
 author: netrob
 excerpt: 2020年，新冠状病毒不仅让中国外贸进入下半场，也彻底改变了世界网络格局——移动互联不仅仅是未来，也代表了现在。品牌独立网站海外推广，从之前的PC端推广为主，重视视觉效果和资料完整性，到如今的移动端，速度还是速度，除了设计考虑手机访问，也需要AMP版本提供快速访问。3秒加载速度，决定了你大半客户的去留。分享下2020年10大最快最好的WordPress主题。
 layout: post
-guid: https://www.justcn.cn/?p=497
 permalink: '/top10%e6%9c%80%e5%bf%ab%e6%9c%80%e5%a5%bd%e7%9a%84wordpress%e4%b8%bb%e9%a2%98%ef%bc%8c%e5%b8%a6%e6%89%8b%e6%9c%baamp/'
 categories:
-  - 徘名与推荐
+  - 服务器及建站
 tags:
   - AMP
   - seo
@@ -16,7 +15,7 @@ tags:
 ---
 2020年，新冠状病毒不仅让中国外贸进入下半场，也彻底改变了世界网络格局——移动互联不仅仅是未来，也代表了现在。品牌独立网站海外推广，从之前的PC端推广为主，重视视觉效果和资料完整性，到如今的移动端，速度还是速度，除了设计考虑手机访问，也需要AMP版本提供快速访问。3秒加载速度，决定了你大半客户的去留。分享下2020年10大最快最好的WordPress主题。
 
-## **<a href="https://www.justcn.cn/google%e8%87%aa%e5%8a%a8amp%e6%89%8b%e6%9c%ba%e8%bd%ac%e7%a0%81%e6%8a%80%e6%9c%af/" target="_blank" rel="noreferrer noopener">AMP</a> ready WordPress主题2020**
+## **<a href="/google%e8%87%aa%e5%8a%a8amp%e6%89%8b%e6%9c%ba%e8%bd%ac%e7%a0%81%e6%8a%80%e6%9c%af/" target="_blank" rel="noreferrer noopener">AMP</a> ready WordPress主题2020**
 
 虽然AMP并不能保证在Google中获得更高的排名，但许多海外推广人员声称在实施AMP后，其访问量几乎翻了一番。
 
@@ -25,7 +24,7 @@ tags:
 
 ## Top10最快最好WordPress主题-2020
 
-本blog将帮助您选择最快的WordPress主题，SEO优化和高度可定制的WordPress网站。同时提供最佳的用户体验，从而有助于吸引更多的Google自然流量。<figure class="wp-block-table is-style-regular">
+本blog将帮助您选择最快的WordPress主题，SEO优化和高度可定制的WordPress网站。同时提供最佳的用户体验，从而有助于吸引更多的Google自然流量。  
 
 <table>
   <tr>
@@ -268,7 +267,7 @@ tags:
       $59/year
     </td>
   </tr>
-</table></figure> 
+</table>
 
 同时，也整理了些判断依据，来说明从哪些因素来判断WordPress主题的速度依据。GeneratePress是个不错的主题，但好像不支持AMP。<figure class="wp-block-table">
 
@@ -421,4 +420,4 @@ tags:
       48
     </td>
   </tr>
-</table></figure>
+</table>
