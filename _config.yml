@@ -80,16 +80,6 @@ navs:
     href: /archives/
     label: 归档
     mobile-hidden: true
-
-  -
-    href: /open-source/
-    label: 开源
-    mobile-hidden: true
-
-  -
-    href: /fragments/
-    label: 片段
-
   -
     href: /wiki/
     label: 维基
@@ -188,7 +178,7 @@ simple_jekyll_search:
 #      Google      #
 # ---------------- #
 google:
-    analytics_id: # G-20FLEG5Q2W
+    analytics_id: # 
     adsense:
         enabled: false
         footer: false
