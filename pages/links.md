@@ -12,7 +12,7 @@ permalink: /links/
 
 <ul>
 {% for link in site.data.links %}
-  {% if link.src == 'life' %}
+  {% if link.src == 'work' %}
   <li><a href="{{ link.url }}" target="_blank">{{ link.name}}</a></li>
   {% endif %}
 {% endfor %}
@@ -22,7 +22,7 @@ permalink: /links/
 
 <ul>
 {% for link in site.data.links %}
-  {% if link.src == 'www' %}
+  {% if link.src == 'tool' %}
   <li><a href="{{ link.url }}" target="_blank">{{ link.name}}</a></li>
   {% endif %}
 {% endfor %}
