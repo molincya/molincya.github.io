@@ -5,7 +5,7 @@ baseurl:
 url: https://molincya.github.io/
 date_format: "ordinal"
 title: 木易·灵兮
-subtitle: "最后的80代"
+subtitle: "工业品牌全球营销，PVD镀膜"
 description: "全球营销，工业品牌策划，PVD镀膜"
 keywords: 灵兮, 全球营销, PVD
 timezone: Asia/Shanghai
@@ -80,15 +80,6 @@ navs:
     href: /archives/
     label: 归档
     mobile-hidden: true
-
-  -
-    href: /open-source/
-    label: 开源
-    mobile-hidden: true
-
-  -
-    href: /fragments/
-    label: 片段
 
   -
     href: /wiki/
@@ -180,7 +171,7 @@ lazy_load_disqus : false
 # ---------------- #
 simple_jekyll_search:
     # 是否支持全文搜索
-    fulltext: false
+    fulltext: true
     # 最多显示多少条搜索结果
     limit: 10
 
@@ -188,7 +179,7 @@ simple_jekyll_search:
 #      Google      #
 # ---------------- #
 google:
-    analytics_id: # G-20FLEG5Q2W
+    analytics_id: # 
     adsense:
         enabled: false
         footer: false
