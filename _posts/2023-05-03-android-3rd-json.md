@@ -13,7 +13,7 @@ keywords: Android
 
 ### 循环引用的问题
 
-如果往一个 List 里多次添加了同一对象，在 `JSON.toJSONString` 时默认会被转换成这样：
+如果往一个 List 里多次添加了同一对象，在 `JSON.toJSONString` 时默认会被转换成这样： 
 
 ```json
 [
