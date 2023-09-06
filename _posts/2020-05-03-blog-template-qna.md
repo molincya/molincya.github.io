@@ -4,10 +4,23 @@ title: 本博客模板常见问题 Q & A
 categories: 网络技术
 description: 使用这个博客模板的朋友们时不时会提出一些问题，我将它们的解决方案逐渐整理归纳，汇总到这一篇帖子里。
 keywords: Jekyll, GitHub Pages
-topmost: true
 ---
 
 使用这个博客模板的朋友们时不时会提出一些问题，我将它们以及对应的解决方案逐渐整理归纳，汇总到这一篇帖子里。
+
+## 01 如何置顶文章
+在 Markdown 文件头部的元信息里添加 `topmost: true`。
+如：
+![](https://user-images.githubusercontent.com/1646590/216495045-cfabd732-a029-4f66-a3b8-94d5cedcac7e.png)
+
+## 02 如何添加菜单页和手机端隐藏
+
+- 在pages目录增加页面；
+- 在_config.yml中navs模块添加内容
+- 手机端隐藏：mobile-hidden: true
+
+## 03 更换域名后，css样式混乱
+编辑_config.yml，修改顶部的url为新域名地址，如：url: https://lincy.now.cc
 
 ## 如何本地预览
 
@@ -117,14 +130,6 @@ _config.yml 里的 components.qrcode 这一段用于控制二维码。
 *links.yml* 文件里的内容对应[「链接」][2]页面里的内容。
 
 ![](/images/posts/template/links.yml.png)
-
-## 如何置顶文章
-
-在 Markdown 文件头部的元信息里指定 `topmost: true`。
-
-如：
-
-![](https://user-images.githubusercontent.com/1646590/216495045-cfabd732-a029-4f66-a3b8-94d5cedcac7e.png)
 
 ## 添加/删除了文章，但是站点没有更新
 
