@@ -1,3 +1,10 @@
+---
+title: "OPP-003｜HRC≥50淬硬钢精加工刀具的HiPIMS与高铝AlCrN涂层"
+date: 2026-11-23
+permalink: /pvd-opportunity-intelligence/opportunities/OPP-003-hrc50-hard-machining-tool-coatings.md
+type: opportunity
+---
+
 # OPP-003｜HRC≥50淬硬钢精加工刀具的HiPIMS与高铝AlCrN涂层
 
 - **评级：** B｜技术机会
