@@ -1,7 +1,7 @@
 ---
 title: "OPP-005｜先进封装玻璃中介层平面细线路的PVD溅射种子层"
 date: 2026-11-23
-permalink: /pvd-opportunity-intelligence/opportunities/OPP-005-glass-interposer-seed-layer-sputtering.md
+permalink: /pvd-opportunity-intelligence/opportunities/OPP-005-glass-interposer-seed-layer-sputteringhtml
 type: opportunity
 ---
 
