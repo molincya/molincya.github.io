@@ -1,7 +1,7 @@
 ---
 title: "OPP-002｜TMR/GMR/AMR磁传感器超薄磁性多层膜堆栈"
 date: 2026-11-23
-permalink: /pvd-opportunity-intelligence/opportunities/OPP-002-magnetic-sensor-pvd-stackhtml
+permalink: /pvd-opportunity-intelligence/opportunities/OPP-002-magnetic-sensor-pvd-stack.html
 type: opportunity
 ---
 
