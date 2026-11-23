@@ -1,7 +1,7 @@
 ---
 title: "OPP-004｜铝/锌合金压铸模具镶件与型芯的局部厚膜PVD"
 date: 2026-11-23
-permalink: /pvd-opportunity-intelligence/opportunities/OPP-004-die-casting-mold-local-thick-pvd.md
+permalink: /pvd-opportunity-intelligence/opportunities/OPP-004-die-casting-mold-local-thick-pvdhtml
 type: opportunity
 ---
 
