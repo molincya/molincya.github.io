@@ -6,33 +6,83 @@
 <title>机会库｜PVD Opportunity Intelligence</title>
 <style>
 :root{color-scheme:dark}*{box-sizing:border-box}
-body{max-width:980px;margin:48px auto;padding:0 22px;background:#101820;color:#edf4f8;font:16px/1.8 system-ui,"Microsoft YaHei",sans-serif}
-a{color:#48b7f5;text-decoration:none}a:hover{text-decoration:underline}
-.muted{color:#9aabb8}.intro{padding:18px 20px;background:#172631;border:1px solid #2b414f;border-radius:12px}
-h1{line-height:1.3}h2{margin-top:34px;border-bottom:1px solid #2b414f;padding-bottom:8px}
-.empty{padding:18px;border:1px dashed #405563;border-radius:10px;color:#b8c7d1}
+body{max-width:1060px;margin:40px auto;padding:0 20px;background:#101820;color:#edf4f8;font:16px/1.75 system-ui,"Microsoft YaHei",sans-serif}
+a{color:#58baf3;text-decoration:none}a:hover{text-decoration:underline}
+.muted{color:#9aabb8}.intro,.panel{padding:18px 20px;background:#172631;border:1px solid #2b414f;border-radius:12px}
+h1{line-height:1.3;margin-bottom:12px}h2{margin-top:32px;border-bottom:1px solid #2b414f;padding-bottom:8px}
+.table-wrap{overflow-x:auto;border:1px solid #2b414f;border-radius:10px}
+table{width:100%;border-collapse:collapse;min-width:760px;background:#14222c}
+th,td{text-align:left;vertical-align:top;padding:12px 13px;border-bottom:1px solid #2b414f}
+th{background:#1b303d;color:#c7d7e2;font-weight:600}
+tr:last-child td{border-bottom:0}
+.tag{display:inline-block;border:1px solid #466071;border-radius:5px;padding:1px 7px;font-size:13px;white-space:nowrap;color:#d4e3ec}
+.tag.s{border-color:#8d7950;color:#f0d89c}.tag.b{border-color:#476e86;color:#b6dcf3}
 .small{font-size:14px;color:#9aabb8}
+ul{padding-left:22px}
+li{margin:7px 0}
+footer{margin:36px 0 24px;padding-top:16px;border-top:1px solid #2b414f;color:#9aabb8;font-size:13px}
 </style>
 </head>
 <body>
 <p><a href="../">← 返回情报首页</a></p>
 <h1>机会库 Opportunities</h1>
 <div class="intro">
-<strong>这里沉淀经过证据核验的PVD产业机会。</strong>
-<p>日报负责发现信号，周报负责排序研判，本栏目负责把达到门槛的行业—部件—工序机会拆解为独立档案，并持续追踪其技术验证、客户验证与商业成熟度。</p>
-<p class="small">评级：S｜已验证商业机会 · A｜高潜机会 · B｜技术机会。C级及证据不足的候选项只列入观察线索，不作为已验证市场结论。</p>
+<strong>这里沉淀经过原始证据核验的PVD产业机会。</strong>
+<p>日报负责发现信号，周报负责排序研判，机会库负责把达到门槛的行业—部件—工序机会拆解为独立档案，并持续追踪技术验证、客户验证、量产与设备投资。</p>
+<p class="small">评级：S｜已验证商业机会 · A｜高潜机会 · B｜技术机会。C级及证据不足的候选项只进入观察线索，不作为已验证市场结论。每份档案分别评估涂层加工服务与设备/产线市场。</p>
 </div>
-<h2>正式机会档案</h2>
-<div class="empty">机会档案正在按统一证据门槛建立。只有达到B级及以上、且具备明确部件/工序、工况、PVD适配逻辑和可验证指标的机会，才会进入正式档案。首批拆解完成后将在此列出编号、评级、状态及独立档案。</div>
-<h2>观察线索</h2>
-<p class="muted">尚未达到正式入库门槛的线索将在此登记，并注明缺失的关键证据；不会把产业趋势或单条新闻直接等同于PVD订单。</p>
+
+<h2>正式机会档案 <span class="small">共5项</span></h2>
+<div class="table-wrap">
+<table>
+<thead><tr><th>编号 / 机会</th><th>评级</th><th>状态</th><th>行业 / 部件与工序</th><th>最近更新</th></tr></thead>
+<tbody>
+<tr>
+<td><a href="OPP-001-quartz-frequency-electrode-metallization.html"><strong>OPP-001｜石英晶体电极精密金属化</strong></a><div class="small">GENERIS PVD真空溅射</div></td>
+<td><span class="tag s">S｜已验证商业机会</span></td><td>量产</td><td>频率控制元件 / 石英晶体、振荡器、谐振器的超薄金属电极</td><td>2026-11-23</td>
+</tr>
+<tr>
+<td><a href="OPP-002-magnetic-sensor-pvd-stack.html"><strong>OPP-002｜磁传感器超薄磁性多层膜</strong></a><div class="small">TIMARIS PVD磁控溅射</div></td>
+<td><span class="tag s">S｜已验证商业机会</span></td><td>量产</td><td>半导体传感器 / TMR、GMR、AMR晶圆磁性堆栈</td><td>2026-11-23</td>
+</tr>
+<tr>
+<td><a href="OPP-003-hrc50-hard-machining-tool-coatings.html"><strong>OPP-003｜HRC≥50淬硬钢硬加工刀具涂层</strong></a><div class="small">HiPIMS TiAlSiN / 高铝AlCrN</div></td>
+<td><span class="tag b">B｜技术机会</span></td><td>客户验证</td><td>精密模具与刀具 / 立铣刀、球头铣刀、钻头和铰刀</td><td>2026-11-23</td>
+</tr>
+<tr>
+<td><a href="OPP-004-die-casting-mold-local-thick-pvd.html"><strong>OPP-004｜压铸模具局部厚膜PVD</strong></a><div class="small">7–11 μm TiAlN / AlCrN及氮化复合</div></td>
+<td><span class="tag b">B｜技术机会</span></td><td>客户验证</td><td>铝/锌合金压铸 / 可拆卸镶件、销、外露型芯</td><td>2026-11-23</td>
+</tr>
+<tr>
+<td><a href="OPP-005-glass-interposer-seed-layer-sputtering.html"><strong>OPP-005｜玻璃中介层平面线路种子层</strong></a><div class="small">半导体用溅射靶材 / PVD</div></td>
+<td><span class="tag b">B｜技术机会</span></td><td>技术验证</td><td>先进封装 / 玻璃中介层微细线路平面种子层</td><td>2026-11-23</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<h2>观察线索 <span class="small">尚未达到正式档案门槛</span></h2>
+<div class="panel">
+<ul>
+<li><strong>HJT太阳电池整线项目｜PVD工序未确认。</strong> SINGULUS于2026-11-10披露SpaceX首条HJT整线合同超过€60 million，计划2027年上半年交付；公开资料没有拆分PVD模块、设备金额或具体工序，因此不计作已确认PVD订单。<a href="https://www.singulus.com/2026/11/10/singulus-spacex-supply-contract/">原始公告</a></li>
+<li><strong>钙钛矿太阳电池真空镀膜设备｜工艺路线未披露。</strong> SINGULUS Q3 2026报告称2026年获得一套真空镀膜系统订单，但没有披露具体沉积工艺、设备数量和应用层，因此暂不归为PVD机会。<a href="https://www.singulus.com/wp-content/uploads/2026/11/Singulus-Technologies_Q3-Report-26_EN.pdf">原始报告</a></li>
+<li><strong>TiAlSiN/TiN/TiAlN/TiSiN标准化｜缺少具体客户需求链。</strong> ISO 25164:2026于2026-08-03正式发布，规定磁控溅射TiAlSiN薄膜技术要求，并适用于TiN、TiAlN、TiSiN；目前缺少与某一终端部件、客户采购或设备投资直接关联的证据。<a href="https://www.iso.org/standard/89207.html">ISO官方页面</a></li>
+<li><strong>MeSiN纳米复合涂层｜缺少明确部件与量产验证。</strong> 2026-11-12综述汇总不同MeSiN体系的硬度和抗氧化研究，但尚未锁定可核验的具体终端部件、客户工况及量产工艺窗口。<a href="https://link.springer.com/article/10.1007/s44251-026-00165-1">论文原文</a></li>
+<li><strong>Ti-Si-C MAX相低温PVD｜仍处于材料研究阶段。</strong> 2026-11-17论文报告高电离反应PVD在550°C制备Ti₃SiC₂相关涂层，但缺少明确终端零件、寿命数据和工业订单。<a href="https://doi.org/10.1021/acsnano.6c10193">论文DOI</a></li>
+<li><strong>生物界面光学薄膜｜器件级验证不足。</strong> 2026-11-18论文讨论PVD沉积能量对生物界面的损伤机制，尚无具体产品导入、可复制量产参数或设备采购证据。<a href="https://doi.org/10.1021/acsami.6c08463">论文DOI</a></li>
+</ul>
+<p class="small">观察线索不建立独立正式档案；当出现明确部件/工序、实际工况、PVD适配逻辑和可验证指标后，再升级为B级或以上。</p>
+</div>
+
 <h2>档案标准</h2>
 <ul>
 <li>明确目标行业、具体部件、工序位置、基材与实际工况。</li>
-<li>分析PVD/DLC适配性，并与CVD、ALD、电镀、热喷涂、渗氮等替代路线比较。</li>
-<li>分别评估涂层加工服务机会与设备/产线采购机会。</li>
-<li>列出原始证据链、验证方案、成熟度、最大未知项及更新记录。</li>
+<li>分析PVD/DLC适配性，并与CVD、ALD、PECVD、电镀/化学镀、热喷涂、渗氮、激光熔覆及转化膜比较。</li>
+<li>分别评估涂层加工服务需求与设备/产线采购需求；没有直接证据时明确标注。</li>
+<li>列出原始证据链、验证方案、成熟度、最大未知项、失败风险及历次更新。</li>
+<li>按行业+具体部件/工序+核心工况去重，后续新证据优先更新既有档案。</li>
 </ul>
-<p class="small">每周复核日报与周报线索，并对既有档案进行持续更新。没有足够证据时，宁可留空，也不凑数。</p>
+<p class="small">S｜已验证商业机会 · A｜高潜机会 · B｜技术机会 · C｜观察线索</p>
+<footer>零一微见 Zero-One Micro Insight｜PVD产业机会研究<br>只记录可追溯证据；来源事实、分析判断与待验证假设分开表述。</footer>
 </body>
 </html>
