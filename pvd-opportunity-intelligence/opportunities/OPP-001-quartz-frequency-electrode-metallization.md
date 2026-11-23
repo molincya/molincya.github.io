@@ -1,3 +1,10 @@
+---
+title: "OPP-001｜石英晶体、振荡器与谐振器电极精密金属化"
+date: 2026-11-23
+permalink: /pvd-opportunity-intelligence/opportunities/OPP-001-quartz-frequency-electrode-metallization.md
+type: opportunity
+---
+
 # OPP-001｜石英晶体、振荡器与谐振器电极精密金属化
 
 - **评级：** S｜已验证商业机会
