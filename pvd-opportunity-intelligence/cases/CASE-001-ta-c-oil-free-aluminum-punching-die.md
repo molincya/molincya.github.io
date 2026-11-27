@@ -1,4 +1,5 @@
 ---
+layout: case
 title: "PVD应用案例 001｜ta-C涂层在无油铝板冲孔模具中的应用与工艺迭代"
 date: 2026-11-28
 permalink: /pvd-opportunity-intelligence/cases/CASE-001-ta-c-oil-free-aluminum-punching-die.html
